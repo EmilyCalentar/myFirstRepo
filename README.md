@@ -1,5 +1,4 @@
 # myFirstRepo
-
 Learning github
 
 This will be my introduction to github.
